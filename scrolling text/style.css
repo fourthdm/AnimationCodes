@@ -1,0 +1,31 @@
+.spacer {
+    height: 80vh;
+  }
+  
+  .background-text {
+    margin-top: 150px;
+    transition: 1s ease-in-out all;
+    /* transition: 1s ease-in-out ; */
+    text-align: center;
+    list-style: none;
+    background: #f5f5f5;
+    overflow-x: hidden;
+    overflow-y: hidden;
+  }
+  
+  .background-text__item {
+    font-family: "Orbitron";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 50px;
+    line-height: 120px;
+    text-transform: uppercase;
+    color: wheat;
+    text-align: center;
+    background: transparent;
+    z-index: -1111; 
+    overflow-x: hidden;
+    overflow-y: hidden;
+   
+  }
+  
